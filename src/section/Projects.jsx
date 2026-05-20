@@ -73,7 +73,7 @@ Implemented CRUD operations, API integration, and responsive design using React 
                   >
                     <ArrowUpRight className='w-5 h-5 '/>
                   </a>
-                  <a href={project.git}
+                  <a href={project.github}
                   className='p-3 rounded-full glass hover:bg-primary hover:text-primary-foreground transition-all'
                   >
                     <Github className='w-5 h-5'/>
