@@ -24,7 +24,7 @@ const projects=[
     description: "Shopixo Ecommerce website",
     image:"/shopixo.png",
     tags:["react","JavaScript","NodeJs","MongoDB","Mongoose"],
-    link:"https://shopixo.vercel.app/",
+    link:"http://shopixo-pds6.vercel.app",
     github:"#",
   },
     {
