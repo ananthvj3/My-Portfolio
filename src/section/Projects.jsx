@@ -9,7 +9,7 @@ const projects=[
     image:"ecom.jpeg",
     tags:["HTML","CSS","JavaScript"],
     link:"https://ananthvj3.github.io/ecommerce/",
-    github:"#",
+    github:"https://github.com/ananthvj3",
   },
     {
     title:"SONY",
@@ -17,7 +17,7 @@ const projects=[
     image:"sony.jpeg",
     tags:["React","JavaScript","TailwindCSS"],
     link:"https://sony-sigma.vercel.app/",
-    github:"#",
+    github:"https://github.com/ananthvj3",
   },
     {
     title:"Shopixo",
@@ -25,7 +25,7 @@ const projects=[
     image:"/shopixo.png",
     tags:["react","JavaScript","NodeJs","MongoDB","Mongoose"],
     link:"http://shopixo-pds6.vercel.app",
-    github:"#",
+    github:"https://github.com/ananthvj3",
   },
     {
     title:"Mini Projects",
@@ -33,7 +33,7 @@ const projects=[
     image:"/miniproject.png",
     tags:["React","JavaScript","Bootstrap"],
     link:"https://mini-projects-fawn-two.vercel.app",
-    github:"#",
+    github:"https://github.com/ananthvj3",
   },
 ];
 
